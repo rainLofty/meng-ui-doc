@@ -1,5 +1,5 @@
 # 说明
-使用vuePress+Vue制作的一个ui组件demo，仅供参考制作文档使用
+使用vuePress+Vue制作的一个ui组件demo，类似vue官方文档的一个ui可视化文档
 
 ## config.js 的代码
 
